@@ -5,6 +5,8 @@ dmenu is an efficient dynamic menu for X.
 
 Changelog
 ====================
+14/09/21
+added xresources patch
 11/09 
 * Initial Commit
 * Gruvbox Colours (manual in config.h)
